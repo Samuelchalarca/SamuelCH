@@ -1,5 +1,5 @@
 # Sobre mí
-Desarrollador web con experiencia en el diseño e implementación de aplicaciones completas, combinando interfaces modernas con lógica funcional robusta. Me especializo en soluciones a medida, desde páginas estáticas hasta sistemas dinámicos con backend integrado. Estoy en constante aprendizaje y adaptándome a nuevas tecnologías y buenas prácticas de desarrollo.
+Soy estudiante de Análisis y Desarrollo de Software, con formación en el diseño, desarrollo y mantenimiento de aplicaciones web. Me apasiona la creación de soluciones digitales funcionales, intuitivas y eficientes. Actualmente estoy profundizando en tecnologías de desarrollo frontend y backend, incluyendo PHP y bases de datos SQL. Tengo habilidades tanto en el trabajo individual como en equipo, y me mantengo en constante aprendizaje para adaptarme a las tendencias y buenas prácticas del desarrollo moderno
 
 
 | Tecnología      | Logo                                                                                                                                  
