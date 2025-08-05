@@ -1,3 +1,7 @@
+# Sobre mí
+Desarrollador web con experiencia en el diseño e implementación de aplicaciones completas, combinando interfaces modernas con lógica funcional robusta. Me especializo en soluciones a medida, desde páginas estáticas hasta sistemas dinámicos con backend integrado. Estoy en constante aprendizaje y adaptándome a nuevas tecnologías y buenas prácticas de desarrollo.
+
+
 | Tecnología      | Logo                                                                                                                                  | Descripción                                                                                                                   |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | **HTML5**       | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Logo"/>                | Sólidos conocimientos en la estructura semántica de páginas web, creación de formularios, etiquetas modernas y accesibilidad. |
